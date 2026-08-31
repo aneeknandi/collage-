@@ -67,3 +67,11 @@ link & Image
 
  the logo of Markdown is below:\
  ![the markdown logo](https://seeklogo.com/images/M/markdown-logo-E54F1D219E-seeklogo.com.png, "logo of markdown")
+
+ TABLE 
+ code:
+
+ | sepal Length| sepal Width | petal Length|
+ |------|-----|----|
+ |5.1|6.1|6.5|
+ |6.0|2.1|3.0|
